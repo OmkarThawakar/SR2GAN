@@ -7,6 +7,12 @@ Omkar Thawakar, Prashant W Patil, Subrahmanyam Murala and U.V. Kulkarni **"Image
 This repository contains comparison of video results with VSR_DUF [&&]. It also contains some examples of image super-resolution results with some of state-of-art methods such as SRCNN [&&], DRRN [&&] , etc. All video file are located in the results/video folder. 
 
 ## Video Results
-
+City
 ![](results/videos/city.gif)
+Calendar
+![](results/videos/calendar.gif)
+Foliage
+![](results/videos/foliage.gif)
+Walk
+![](results/videos/walk.gif)
 
