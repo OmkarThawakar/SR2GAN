@@ -7,10 +7,10 @@ Omkar Thawakar, Prashant W Patil, Subrahmanyam Murala and U.V. Kulkarni, **"Imag
 This repository contains qualitative comparison of video super-resolution SR2GAN with VSR_DUF [1] for four different videos (city,foliage,car,calendar) from Derf's collection [4]. It also contains some examples of image super-resolution results with some of state-of-the-art methods such as SRCNN [2], DRRN [3] , etc. All video file are located in the results/video folder. Image super-resolution results contains comparison with images from set14 [5], BSD100 [6] and Urban100 [7] dataset in terms of PSNR(Peak signal to noise ratio) and SSIM(structural self-similarity index).
 
 
-## Video Super-Resolution Recurrent Network Diagram
+## Video Super-Resolution SR2GAN Network 
 ![](results/images/Video_SR_Network.png)
 
-## Image Super-Resolution Network Diagram
+## Image Super-Resolution SR2GAN Network
 ![](results/images/Image_SR_Network.png)
 
 ## Video Super-Resolution Results
