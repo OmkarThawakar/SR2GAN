@@ -4,7 +4,14 @@ Video results for the original videos such as city,calendar,foliage and walk fro
 Omkar Thawakar, Prashant W Patil, Subrahmanyam Murala and U.V. Kulkarni, **"Image and Video Super Resolution with Recurrent Generative Adversarial Network,"** submitted, May 2019.
 
 ## Description
-This repository contains comparison of video super-resolution with VSR_DUF [1]. It also contains some examples of image super-resolution results with some of state-of-art methods such as SRCNN [2], DRRN [3] , etc. All video file are located in the results/video folder. Image super-resolution results contains comparison with images from set14 [5], BSD100 [6] and Urban100 [7] dataset in terms of PSNR(Peak signal to noise ratio) and SSIM(structural self-similarity index)
+This repository contains qualitative comparison of video super-resolution SR2GAN with VSR_DUF [1] for four different videos (city,foliage,car,calendar) from Derf's collection [4]. It also contains some examples of image super-resolution results with some of state-of-the-art methods such as SRCNN [2], DRRN [3] , etc. All video file are located in the results/video folder. Image super-resolution results contains comparison with images from set14 [5], BSD100 [6] and Urban100 [7] dataset in terms of PSNR(Peak signal to noise ratio) and SSIM(structural self-similarity index).
+
+
+## Video Super-Resolution Recurrent Network Diagram
+![](results/images/Video_SR_Network.png)
+
+## Image Super-Resolution Network Diagram
+![](results/images/Image_SR_Network.png)
 
 ## Video Super-Resolution Results
 City
