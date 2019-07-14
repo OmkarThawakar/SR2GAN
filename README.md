@@ -30,6 +30,8 @@ Walk
 
 Following results are obtained with dataset given by NTIRE CVPR 2019 Image/Video SR challenge.
 
+#### Input Image >>>>>>>>>>>>>>> SR2GAN Output >>>>>>>>>>>>>>> GroundTruth
+
 <p float="left">
   <img src="/results/images/CVPR_2019_Workshop/1-input.png"  width="250"/>
   <img src="/results/images/CVPR_2019_Workshop/1-output.png"  width="250"/>
@@ -58,6 +60,27 @@ Following results are obtained with dataset given by NTIRE CVPR 2019 Image/Video
   <img src='/results/images/CVPR_2019_Workshop/cam2_01-inputs.png'  width='250'/>
   <img src='/results/images/CVPR_2019_Workshop/cam2_01-outputs.png'  width='250'/>
   <img src='/results/images/CVPR_2019_Workshop/cam2_01-targets.png'  width='250'/>
+</p>
+
+
+<p float='left'>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_010-inputs.png'  width='250'/>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_010-outputs.png'  width='250'/>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_010-targets.png'  width='250'/>
+</p>
+
+
+<p float='left'>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_03-inputs.png'  width='250'/>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_03-outputs.png'  width='250'/>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_03-targets.png'  width='250'/>
+</p>
+
+
+<p float='left'>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_05-inputs.png'  width='250'/>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_05-outputs.png'  width='250'/>
+  <img src='/results/images/CVPR_2019_Workshop/cam2_05-targets.png'  width='250'/>
 </p>
 
 
